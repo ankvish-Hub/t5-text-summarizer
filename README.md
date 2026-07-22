@@ -161,13 +161,7 @@ pip install -r requirements.txt
 
 ## 📸 Screenshot
 
-> Add a screenshot of your application here.
-
-Example:
-
-```
-screenshots/home.png
-```
+![Text Summarizer](screenshots/home.png)
 
 ---
 
